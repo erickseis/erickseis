@@ -45,7 +45,7 @@ I am a Full-stack Developer in progress...
 
 
 <p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C4D16AQElgQO3PF2-rw/profile-displaybackgroundimage-shrink_350_1400/0/1656811896266?e=1665014400&v=beta&t=fwU1P95bhi41O1oWEGoRfX2eWrEfDbpz-uZQyyHUmOw" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://drive.google.com/file/d/1hhv-YqQSj7uu7II9VGDvKhlnkZbpmAsa/view?usp=sharing" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 
