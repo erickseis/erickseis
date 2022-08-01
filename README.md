@@ -25,9 +25,6 @@ I am a Full-stack Developer in progress...
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 
-### Other Languages I know
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
@@ -63,11 +60,10 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 :star: From [Souravdey777](https://github.com/Souravdey777)
 
 [website]: https://souravdey777.github.io/Portfolio/
-[twitter]: https://twitter.com/Souravdey777
-[youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/souravdey777/
-[linkedin]: https://www.linkedin.com/in/sourav-dey/
-[medium]: https://medium.com/@Souravdey777/
+[twitter]: https://twitter.com/Erickseiss
+[youtube]: https://www.youtube.com/channel/UCSLA6C5cStWkjTtw_tpk2sQ
+[linkedin]: https://www.linkedin.com/in/erick-seis-b6418223a/
+
 
 
 
