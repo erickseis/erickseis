@@ -57,13 +57,3 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 [youtube]: https://www.youtube.com/channel/UCSLA6C5cStWkjTtw_tpk2sQ
 [linkedin]: https://www.linkedin.com/in/erick-seis-b6418223a/
 
-
-
-
-const erick= {
-developer: "Front End";
-code: [Javascript, HTML, CSS]
-tools: [React, Redux, React Router, Node, Git, Git-Hub]
-
-challenge: "I am doing the #100DaysOfCode challenge focused on Javascript and React"
-}
