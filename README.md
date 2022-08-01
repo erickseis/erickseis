@@ -43,3 +43,11 @@ I am a Full-stack Developer in progress...
 [youtube]: https://www.youtube.com/channel/UCSLA6C5cStWkjTtw_tpk2sQ
 [linkedin]: https://www.linkedin.com/in/erick-seis-b6418223a/
 
+
+---
+
+<p align="center">
+  <img src="https://media-exp1.licdn.com/dms/image/C4D16AQElgQO3PF2-rw/profile-displaybackgroundimage-shrink_350_1400/0/1656811896266?e=1665014400&v=beta&t=fwU1P95bhi41O1oWEGoRfX2eWrEfDbpz-uZQyyHUmOw" width="100%" title="Intro Card" alt="Intro Card">
+</p>
+
+
