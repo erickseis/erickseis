@@ -45,7 +45,7 @@ I am a Full-stack Developer in progress...
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/heP5IXfV4WJiAO16YH/giphy.gif" width="600px" title="Intro Card" alt="Intro Card">
+  <img src="https://media.giphy.com/media/heP5IXfV4WJiAO16YH/giphy.gif"50%" title="Intro Card" alt="Intro Card">
 </p>
 
 
