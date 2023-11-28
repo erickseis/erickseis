@@ -3,10 +3,10 @@
 ---
 
 <p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C4D16AQElgQO3PF2-rw/profile-displaybackgroundimage-shrink_350_1400/0/1656811896266?e=1665014400&v=beta&t=fwU1P95bhi41O1oWEGoRfX2eWrEfDbpz-uZQyyHUmOw" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="[https://media-exp1.licdn.com/dms/image/C4D16AQElgQO3PF2-rw/profile-displaybackgroundimage-shrink_350_1400/0/1656811896266?e=1665014400&v=beta&t=fwU1P95bhi41O1oWEGoRfX2eWrEfDbpz-uZQyyHUmOw](https://static.platzi.com/media/blog/mern-stack-284eedb6-ee6b-4441-b181-5064a453a15a.png)" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a Full-stack Developer in progress...
+I am a Full-stack Developer
  
 
 ---
