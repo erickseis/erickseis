@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="[https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg]" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a Full-stack Developer
